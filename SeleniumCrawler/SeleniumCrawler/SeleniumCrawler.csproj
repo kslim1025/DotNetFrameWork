@@ -6,11 +6,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Chromium.ChromeDriver" Version="2.37.0" />
+    <PackageReference Include="chromypack" Version="1.0.0" />
     <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+    <PackageReference Include="OpenQA.Selenium.Winium" Version="1.0.0.4" />
     <PackageReference Include="Selenium.Chrome.WebDriver" Version="85.0.0" />
     <PackageReference Include="Selenium.Support" Version="3.141.0" />
     <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="87.0.4280.8800" />
+    <PackageReference Include="SeleniumBrowsers.InvokationCore" Version="1.0.0" />
+    <PackageReference Include="SeleniumWebDrivers" Version="1.0.0.4" />
+    <PackageReference Include="WebDriver.ChromeDriver" Version="26.14.313457.1" />
+    <PackageReference Include="WebDriver.ChromeDriver.win32-2.36" Version="2.36.0" />
+    <PackageReference Include="WebDriverChromeDriver" Version="2.10.0" />
   </ItemGroup>
 
 </Project>
